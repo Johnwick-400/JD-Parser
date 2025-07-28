@@ -9,7 +9,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
-API_KEY = "m2itXoOFEKU5oFVETefDCVLyIWxH5t6B"  
+API_KEY = "your-api-key"  
 MODEL_NAME = "mistral-small-latest"
 API_URL = "https://api.mistral.ai/v1/chat/completions"
 
